@@ -43,8 +43,8 @@ ul {
 }
 
 .header__content {
-    background: purple;
-    height: 800px;
+    background: rgb(136, 136, 217);
+    height: 400px;
     display: flex;
     justify-content: center;
     flex-direction: column;
