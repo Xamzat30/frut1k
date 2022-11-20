@@ -60,3 +60,18 @@ ul {
     font-size: 30px;
     color: white;
 }
+
+.main {
+    height: 100vh;
+    background: black;
+    padding-top: 50px;
+}
+.main__list {
+    margin-left: 50px;
+    display: flex;
+    gap: 20px;
+}
+.main__list-link {
+    font-size: 30px;
+    color: red;
+}
