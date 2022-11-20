@@ -41,3 +41,22 @@ ul {
     color: white;
     font-size: 20px;
 }
+
+.header__content {
+    background: purple;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+.header__content-title {
+    font-size: 50px;
+    color: white;
+}
+
+.header__content-text {
+    font-size: 30px;
+    color: white;
+}
